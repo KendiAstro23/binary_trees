@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_leaves - Computes the leaves in a binary tree.
- * @tree: A pointer to the tree's root node
+ * @tree: A pointer to the tree's root node.
  * Return: The number of leaves.
  */
 size_t binary_tree_leaves(const binary_tree_t *tree)

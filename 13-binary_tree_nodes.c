@@ -3,7 +3,6 @@
 /**
  * binary_tree_nodes - Computes the nodes with at least 1
  * child in the binary tree.
- * 
  * @tree: A pointer to tree's root node.
  * Return: 0 if NULL, else head count.
  */
